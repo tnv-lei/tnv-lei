@@ -75,7 +75,6 @@ This resource provides educational information about LEI for Singapore businesse
 **Related Files:**
 - [Canada LEI Guide](readme.md)
 - [Brazil LEI Guide](tnv-lei-brazil.md)
-- [Summary of All Countries](SUMMARY.md)
 
 ---
 
