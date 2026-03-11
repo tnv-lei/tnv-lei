@@ -102,7 +102,7 @@ This can be useful when an entity wants to move future renewals or LEI managemen
 
 ## About TNV LEI
 
-[TNV LEI](https://www.tnvlei.com/en-GB/about) describes itself as a **GLEIF-accredited Local Operating Unit (LOU)** for issuing and managing Legal Entity Identifiers. Its published service flow covers **registration, renewal, transfer, challenge support, and updates**.
+[TNV LEI](https://www.tnvlei.com/en-GB/about) is a **GLEIF-accredited Local Operating Unit (LOU)** for issuing and managing Legal Entity Identifiers. Its published service flow covers **registration, renewal, transfer, challenge support, and updates**.
 
 For the official pages referenced in this guide:
 
